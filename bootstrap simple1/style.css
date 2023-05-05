@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: inter-regular;
+    src: url(Inter-Regular.ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.p_1{
+    margin: 137px auto;
+    text-align: center;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FFFFFF;
+    font-family: inter-regular;
+}
